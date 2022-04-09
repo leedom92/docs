@@ -1,0 +1,1 @@
+const e={key:"v-1b108822",path:"/handbook/xmselect/XM02.html",title:"\u56FD\u9645\u5316",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u82F1\u8BED",slug:"\u82F1\u8BED",children:[]}],git:{updatedTime:1647966817e3,contributors:[{name:"leedom",email:"leedom.jinlanzuan.com",commits:1}]},filePathRelative:"handbook/xmselect/XM02.md"};export{e as data};

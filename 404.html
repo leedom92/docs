@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.37">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="msapplication-TileColor" content="#5468ff"><meta name="theme-color" content="#5468ff"><title>Leedom</title><meta name="description" content="Leedom's docs">
+    <link rel="modulepreload" href="/assets/app.95f31e46.js"><link rel="modulepreload" href="/assets/404.html.f166316b.js"><link rel="modulepreload" href="/assets/404.html.07971d5c.js">
+    <link rel="stylesheet" href="/assets/style.51df1988.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>这里什么都没有</blockquote><a href="/" class="">返回首页</a></div></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.95f31e46.js" defer></script>
+  </body>
+</html>

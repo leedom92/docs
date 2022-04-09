@@ -1,0 +1,1 @@
+const e={key:"v-7cf1c560",path:"/handbook/xmselect/ZP03.html",title:"\u4E0B\u62C9\u65E5\u671F\u591A\u9009",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"laydate",slug:"laydate",children:[]}],git:{updatedTime:1647966817e3,contributors:[{name:"leedom",email:"leedom.jinlanzuan.com",commits:1}]},filePathRelative:"handbook/xmselect/ZP03.md"};export{e as data};

@@ -1,0 +1,5 @@
+# Algolia-Crawler-Verif: D6D552F9CEF2C7FD
+
+User-agent: *
+Allow: /
+Sitemap: https://docs.leedom.me/sitemap.xml

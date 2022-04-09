@@ -1,0 +1,1 @@
+const e={key:"v-5b8b9866",path:"/handbook/xmselect/ZTEST.html",title:"\u6D4B\u8BD5",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647966817e3,contributors:[{name:"leedom",email:"leedom.jinlanzuan.com",commits:1}]},filePathRelative:"handbook/xmselect/ZTEST.md"};export{e as data};
