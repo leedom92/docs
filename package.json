@@ -1,0 +1,22 @@
+{
+  "name": "Leedom",
+  "version": "1.0.0",
+  "description": "Leedom's docs",
+  "main": "index.js",
+  "repository": "https://github.com/leedom92/docs",
+  "author": "Leedom",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "deploy": "sh deploy.sh"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.26",
+    "vue": "^3.2.41"
+  },
+  "dependencies": {
+    "@vue/theme": "^1.2.2"
+  }
+}
