@@ -63,6 +63,10 @@ const sidebar = {
           text: "账号切换",
           link: "/handbook/git/change",
         },
+        {
+          text: "fork同步",
+          link: "/handbook/git/fork",
+        },
       ],
     },
     {
