@@ -13,7 +13,9 @@
     "deploy": "sh deploy.sh"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.26",
+    "@vitejs/plugin-vue-jsx": "^2.1.1",
+    "markdown-it-container": "^3.0.0",
+    "vitepress": "1.0.0-alpha.29",
     "vue": "^3.2.41"
   },
   "dependencies": {

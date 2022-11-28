@@ -4,12 +4,12 @@
 你可以使用以下命令生成sshkey：
 
 :::: code-group
-:::code-group-item ed25519
+::: code-group-item ed25519
 ```sh
 ssh-keygen -t ed25519 -C "ur_email@example.com"
 ```
 :::
-:::code-group-item rsa
+::: code-group-item rsa
 ```sh
 ssh-keygen -t rsa -b 4096 -C "ur_email@example.com"
 ```

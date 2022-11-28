@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import { markdownConfig } from './configs';
 
 // 顶部导航
 const nav = [
@@ -422,10 +423,7 @@ export default defineConfig({
   appearance: true,
   ignoreDeadLinks: true,
   lastUpdated: true,
-  markdown: {
-    theme: "one-dark-pro",
-    lineNumbers: true,
-  },
+  markdown: markdownConfig,
   themeConfig: {
     algolia,
     nav,
