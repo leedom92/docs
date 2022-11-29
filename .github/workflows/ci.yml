@@ -39,4 +39,3 @@ jobs:
           # 该步骤会将项目中 folder 指定文件夹下的文件推送到 BRANCH 分支，作为Github Pages 部署的内容。
           # Vite默认打包到 dist 目录
           folder: docs/.vitepress/dist
-          cname: docs.leedom.me
