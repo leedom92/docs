@@ -29,13 +29,6 @@ jobs:
         run: |
           npm install
           npm run build
-      
-      # 进入需要部署的dist文件夹，并且创建CNAME文件
-      - name: Enter the dist folder
-        run: |
-          cd docs/.vitepress/dist
-          echo docs.leedom.me >> CNAME
-          cd ..
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
@@ -45,4 +38,5 @@ jobs:
           # 存储库中要部署的文件夹。
           # 该步骤会将项目中 folder 指定文件夹下的文件推送到 BRANCH 分支，作为Github Pages 部署的内容。
           # Vite默认打包到 dist 目录
-          folder: dist
+          folder: docs/.vitepress/dist
+          cname: docs.leedom.me
