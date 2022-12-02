@@ -15,6 +15,8 @@
   "devDependencies": {
     "@vitejs/plugin-vue-jsx": "^2.1.1",
     "markdown-it-container": "^3.0.0",
+    "unocss": "^0.47.5",
+    "unplugin-vue-define-options": "^1.0.0",
     "vitepress": "1.0.0-alpha.29",
     "vue": "^3.2.41"
   },
