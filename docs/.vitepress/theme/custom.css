@@ -116,3 +116,10 @@
 .dark .vp-doc .custom-block a {
   transition: color 0.25s;
 }
+
+/**
+ * Component: App
+ * -------------------------------------------------------------------------- */
+ :root {
+  --vp-font-family-base: 'LXGW WENKAI'
+ }
