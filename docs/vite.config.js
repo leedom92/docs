@@ -9,5 +9,8 @@ export default defineConfig({
     Unocss(),
     DefineOptions(),
     vueJsx()
-  ]
+  ],
+  server: {
+    open: true
+  }
 })
