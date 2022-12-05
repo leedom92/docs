@@ -444,7 +444,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/leedom92",
+        link: "https://github.com/leedom92/docs",
       },
     ],
   },
