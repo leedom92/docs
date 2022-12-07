@@ -1,13 +1,4 @@
-# The document will record everything.
-
-## VitePress
-It is mainly based on [VitePress](https://github.com/vuejs/vitepress).
-
-## Component
-It use a component `CodeGroup` that is from a [project](https://github.com/sxzz/unplugin-vue-macros) of [sxzz](https://github.com/sxzz).
-
-## Font
-It use a beautiful font named [LXGW WenKai](https://github.com/lxgw/LxgwWenKai), the chinese name is 「霞鹜文楷」.
+# This document is not just a document.
 
 ## Install
 ```sh
@@ -19,3 +10,11 @@ pnpm i
 
 pnpm dev
 ```
+## VitePress
+It is mainly based on [VitePress](https://github.com/vuejs/vitepress).
+
+## Component
+It use a component `CodeGroup` that is from a [project](https://github.com/sxzz/unplugin-vue-macros) of [sxzz](https://github.com/sxzz).
+
+## Font
+It use a beautiful font named [LXGW WenKai](https://github.com/lxgw/LxgwWenKai), the chinese name is 「霞鹜文楷」.
