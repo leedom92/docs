@@ -68,6 +68,10 @@ const sidebar = {
           text: "fork同步",
           link: "/handbook/git/fork",
         },
+        {
+          text: "问题和解决",
+          link: "/handbook/git/problem",
+        },
       ],
     },
     {
