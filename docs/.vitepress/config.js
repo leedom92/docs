@@ -12,8 +12,18 @@ const nav = [
     link: "/handbook/git/sshkey",
   },
   {
-    text: "指南",
-    link: "/life/mico/jojo",
+    text: "生活",
+    items: [
+      {
+        text: 'mico的爱好',
+        items: [
+          {
+            text: '超级宝贝JOJO',
+            link: "/life/mico/jojo"
+          }
+        ]
+      }
+    ]
   },
   {
     text: "方案",
@@ -324,6 +334,19 @@ const sidebar = {
       ],
     },
   ],
+  "/life": [
+    {
+      text: "mico的爱好",
+      collapsible,
+      collapsed,
+      items: [
+        {
+          text: "超级宝贝JOJO",
+          link: "/life/mico/jojo",
+        }
+      ],
+    },
+  ]
 }
 
 // algolia搜索
