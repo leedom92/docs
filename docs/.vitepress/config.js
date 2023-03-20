@@ -12,6 +12,10 @@ const nav = [
     link: "/handbook/git/sshkey",
   },
   {
+    text: "指南",
+    link: "/life/mico/jojo",
+  },
+  {
     text: "方案",
     items: [
       {
