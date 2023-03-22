@@ -1,8 +1,8 @@
 # 超级宝贝JOJO
 
-> This is a cartoon that Mico likes it so much!
+> This is a cartoon that Mico likes so much!
 > 
-> And there are some episodes that she prefer.
+> And there are some episodes that she prefers.
 
 ## 第1季
 
