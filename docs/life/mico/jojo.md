@@ -7,6 +7,7 @@
 ## 第1季
 
 1. Bingo - Episode 26
+1. 宝宝穿衣服 - Episode 45
 
 ## 第2季
 
