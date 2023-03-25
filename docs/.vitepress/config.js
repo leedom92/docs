@@ -12,20 +12,6 @@ const nav = [
     link: "/handbook/git/sshkey",
   },
   {
-    text: "生活",
-    items: [
-      {
-        text: 'mico的爱好',
-        items: [
-          {
-            text: '超级宝贝JOJO',
-            link: "/life/mico/jojo"
-          }
-        ]
-      }
-    ]
-  },
-  {
     text: "方案",
     items: [
       {
@@ -46,6 +32,20 @@ const nav = [
         ],
       },
     ],
+  },
+  {
+    text: "生活",
+    items: [
+      {
+        text: 'mico的爱好',
+        items: [
+          {
+            text: '超级宝贝JOJO',
+            link: "/life/mico/jojo"
+          }
+        ]
+      }
+    ]
   },
 ]
 
