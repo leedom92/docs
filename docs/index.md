@@ -19,10 +19,10 @@ hero:
 features:
   - icon: ⚡️
     title: 前端技术
-    details: 记录工作中踩过的坑以及解决的方法，包括js，css，vue，react，webpack，git，nodejs，小程序等等
+    details: 好吧！学不动了！据说前端已死？！
   - icon: 🖖
     title: 优秀插件
-    details: 收录优秀的前端插件，分享用法，提示一些注意点，当然也许只会甩个链接，客官们自个儿看文档吧
+    details: 收录优秀的前端插件，分享用法，提示一些注意点
   - icon: 💡
     title: 生活笔谈
     details: 偶尔写写日记，聊些琐事，分享养生知识，人生总有一张晴雨表，好的坏的都在造就自己
