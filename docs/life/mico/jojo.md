@@ -7,8 +7,9 @@
 ## 第1季
 
 1. [宝宝起床了 - Episode 01](https://www.iqiyi.com/v_19rt6imhq8.html)（关键词：`早安`）
-1. [Bingo - Episode 26](https://www.iqiyi.com/v_19rvm5gpj8.html)
-2. [宝宝穿衣服 - Episode 45](https://www.iqiyi.com/v_19rwjrwy0w.html)
+2. [Bingo - Episode 26](https://www.iqiyi.com/v_19rvm5gpj8.html)
+3. [宝宝穿衣服 - Episode 45](https://www.iqiyi.com/v_19rwjrwy0w.html) 
+4. [健康检查 - Episode 51](https://www.iqiyi.com/v_onlibyemm8.html)
 
 ## 第2季
 
