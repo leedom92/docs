@@ -2,7 +2,6 @@
   "name": "Leedom",
   "version": "1.0.0",
   "description": "Leedom's docs",
-  "main": "index.js",
   "repository": "https://github.com/leedom92/docs",
   "author": "Leedom",
   "license": "MIT",
