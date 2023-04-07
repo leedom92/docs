@@ -1,1 +1,0 @@
-import{_ as e,o,c as r,Q as t}from"./chunks/framework.237f4aa8.js";const f=JSON.parse('{"title":"超级宝贝JOJO","description":"","frontmatter":{},"headers":[],"relativePath":"life/mico/jojo.md","lastUpdated":1680104767000}'),a={name:"life/mico/jojo.md"},i=t("",6),l=[i];function s(h,c,n,_,d,p){return o(),r("div",null,l)}const w=e(a,[["render",s]]);export{f as __pageData,w as default};
