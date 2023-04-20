@@ -10,6 +10,7 @@
 2. [Bingo - Episode 26](https://www.iqiyi.com/v_19rvm5gpj8.html)
 3. [宝宝穿衣服 - Episode 45](https://www.iqiyi.com/v_19rwjrwy0w.html) 
 4. [健康检查 - Episode 51](https://www.iqiyi.com/v_onlibyemm8.html)
+5. [一起包包子 - Episode 77](https://www.iqiyi.com/v_19ry9bpja4.html)（关键词：`包包子`）
 
 ## 第2季
 
