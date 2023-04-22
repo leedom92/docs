@@ -17,3 +17,7 @@
 1. [宝宝小医生 - Episode 21](https://www.iqiyi.com/v_25ki164c93o.html)
 2. [鲨鱼手指歌 - Episode 26](https://www.iqiyi.com/v_1o7wzgz8yao.html)（关键词：`鲨鱼妈妈`）
 3. [痒痒歌 - Episode 27](https://www.iqiyi.com/v_194tsmkrgy8.html)
+
+## 第3季
+
+1. [跟陌生人说不 - Episode 31](https://www.iqiyi.com/v_un72cew43s.html)（关键词：`陌生人`）
