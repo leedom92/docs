@@ -14,11 +14,13 @@
 
 ## 第2季
 
-1. [你抓不到我 - Episode 1](https://www.iqiyi.com/v_25ki164c93o.html)（关键词：`大灰狼`）
-1. [宝宝小医生 - Episode 21](https://www.iqiyi.com/v_25ki164c93o.html)
-2. [鲨鱼手指歌 - Episode 26](https://www.iqiyi.com/v_1o7wzgz8yao.html)（关键词：`鲨鱼妈妈`）
-3. [痒痒歌 - Episode 27](https://www.iqiyi.com/v_194tsmkrgy8.html)
-4. [香香爆米花 - Episode 51](https://www.iqiyi.com/v_194tsmkrgy8.html)
+1. [你抓不到我 - Episode 1](https://www.iqiyi.com/v_2dum6u5db1k.html)（关键词：`大灰狼`）
+2. [清洁小能手 - Episode 12](https://www.iqiyi.com/v_11x8q7v8370.html)（关键词：`干干净净`）
+3. [宝宝小医生 - Episode 21](https://www.iqiyi.com/v_25ki164c93o.html)
+4. [新年快乐 - Episode 22](https://www.iqiyi.com/v_xe5l3vhios.html)
+5. [鲨鱼手指歌 - Episode 26](https://www.iqiyi.com/v_1o7wzgz8yao.html)（关键词：`鲨鱼妈妈`）
+6. [痒痒歌 - Episode 27](https://www.iqiyi.com/v_194tsmkrgy8.html)
+7. [香香爆米花 - Episode 51](https://www.iqiyi.com/v_194tsmkrgy8.html)
 
 ## 第3季
 
