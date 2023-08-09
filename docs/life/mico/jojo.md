@@ -1,4 +1,4 @@
-# 超级宝贝JOJO
+≈# 超级宝贝JOJO
 
 > This is a cartoon that Mico likes so much!
 > 
@@ -7,10 +7,11 @@
 ## 第1季
 
 1. [宝宝起床了 - Episode 01](https://www.iqiyi.com/v_2dum6u5db1k.html)（关键词：`早安`）
-2. [Bingo - Episode 26](https://www.iqiyi.com/v_19rvm5gpj8.html)
-3. [宝宝穿衣服 - Episode 45](https://www.iqiyi.com/v_19rwjrwy0w.html) 
-4. [健康检查 - Episode 51](https://www.iqiyi.com/v_onlibyemm8.html)
-5. [一起包包子 - Episode 77](https://www.iqiyi.com/v_19ry9bpja4.html)（关键词：`包包子`）
+2. [生日派对 - Episode 21](https://www.iqiyi.com/v_19rtvj1pvk.html)（关键词：`生日快乐`）
+3. [Bingo - Episode 26](https://www.iqiyi.com/v_19rvm5gpj8.html)
+4. [宝宝穿衣服 - Episode 45](https://www.iqiyi.com/v_19rwjrwy0w.html) 
+5. [健康检查 - Episode 51](https://www.iqiyi.com/v_onlibyemm8.html)
+6. [一起包包子 - Episode 77](https://www.iqiyi.com/v_19ry9bpja4.html)（关键词：`包包子`）
 
 ## 第2季
 
