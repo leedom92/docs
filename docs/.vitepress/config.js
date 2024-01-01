@@ -46,7 +46,11 @@ const nav = [
           {
             text: '中国唱诗班',
             link: "/life/mico/poem"
-          }
+          },
+          {
+            text: '奶龙',
+            link: "/life/mico/milk-dragon"
+          },
         ]
       }
     ]
@@ -351,7 +355,11 @@ const sidebar = {
         {
           text: '中国唱诗班',
           link: "/life/mico/poem"
-        }
+        },
+        {
+          text: '奶龙',
+          link: "/life/mico/milk-dragon"
+        },
       ],
     },
   ]
