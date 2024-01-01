@@ -42,6 +42,10 @@ const nav = [
           {
             text: '超级宝贝JOJO',
             link: "/life/mico/jojo"
+          },
+          {
+            text: '中国唱诗班',
+            link: "/life/mico/poem"
           }
         ]
       }
@@ -343,6 +347,10 @@ const sidebar = {
         {
           text: "超级宝贝JOJO",
           link: "/life/mico/jojo",
+        },
+        {
+          text: '中国唱诗班',
+          link: "/life/mico/poem"
         }
       ],
     },
