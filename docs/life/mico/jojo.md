@@ -1,4 +1,4 @@
-≈# 超级宝贝JOJO
+# 超级宝贝JOJO
 
 > This is a cartoon that Mico likes so much!
 > 
