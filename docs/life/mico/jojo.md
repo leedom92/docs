@@ -34,5 +34,6 @@
 3. [警察体验日 - Episode 09](https://www.iqiyi.com/v_2eyobhd4ks0.html)
 4. [尿床恐龙 - Episode 10](https://www.iqiyi.com/v_250lpmex5yc.html)
 5. [邻居小宝宝 - Episode 13](https://www.iqiyi.com/v_1t8mrh0mbg0.html)
-6. [静电游戏 - Episode 30](https://www.iqiyi.com/v_fo2o3shg58.html)
-7. [宝贝便秘了 - Episode 13](https://www.iqiyi.com/v_19rlys998m0.html)（关键词：`jojo杂嗯嗯`）
+6. [赶蚊子 - Episode 23](https://www.iqiyi.com/v_1f1izkrn0bg.html)
+7. [静电游戏 - Episode 30](https://www.iqiyi.com/v_fo2o3shg58.html)
+8. [宝贝便秘了 - Episode 46](https://www.iqiyi.com/v_19rlys998m0.html)（关键词：`jojo杂嗯嗯`）
