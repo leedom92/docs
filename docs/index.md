@@ -6,7 +6,7 @@ hero:
   text: 今夜我不关心人类，我只想好好睡一觉
   tagline: 笑骂由人，洒脱地做人
   image:
-    src: https://fuckjs.gitee.io/cdn/docs-leedom-me/hero.png
+    src: https://github.com/leedomjs.png
     alt: leedom-logo
   actions:
     - theme: brand

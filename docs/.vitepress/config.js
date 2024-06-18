@@ -462,7 +462,7 @@ export default defineConfig({
       "link",
       {
         rel: "icon",
-        href: "https://fuckjs.gitee.io/cdn/docs-leedom-me/hero.png",
+        href: "https://github.com/leedomjs.png",
       },
     ],
     [
@@ -483,7 +483,7 @@ export default defineConfig({
     nav,
     sidebar,
     siteTitle: "Leedom",
-    logo: "https://fuckjs.gitee.io/cdn/docs-leedom-me/hero.png",
+    logo: "https://github.com/leedomjs.png",
     footer: {
       message: "",
       copyright: "Copyright © 2022-present Leedom",
