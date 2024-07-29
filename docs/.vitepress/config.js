@@ -51,6 +51,14 @@ const nav = [
             text: '奶龙',
             link: "/life/mico/milk-dragon"
           },
+          {
+            text: '小猪佩奇',
+            link: "/life/mico/peppa-pig"
+          },
+          {
+            text: '依娜和恰恰',
+            link: "https://www.mgtv.com/b/609576/20419363.html"
+          },
         ]
       }
     ]
@@ -359,6 +367,14 @@ const sidebar = {
         {
           text: '奶龙',
           link: "/life/mico/milk-dragon"
+        },
+        {
+          text: '小猪佩奇',
+          link: "/life/mico/peppa-pig"
+        },
+        {
+          text: '依娜和恰恰',
+          link: "https://www.mgtv.com/b/609576/20419363.html"
         },
       ],
     },
