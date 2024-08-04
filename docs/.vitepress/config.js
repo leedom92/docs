@@ -18,6 +18,10 @@ const nav = [
         text: 'nrm',
         link: '/tools/nrm',
       },
+      {
+        text: 'nvm',
+        link: '/tools/nvm',
+      }
     ],
   },
   {
@@ -364,6 +368,10 @@ const sidebar = {
       text: "nrm",
       link: "/tools/nrm",
     },
+    {
+      text: 'nvm',
+      link: "/tools/nvm",
+    }
   ],
   "/life": [
     {
