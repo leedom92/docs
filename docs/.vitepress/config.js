@@ -12,6 +12,15 @@ const nav = [
     link: "/handbook/git/sshkey",
   },
   {
+    text: '工具',
+    items: [
+      {
+        text: 'nrm',
+        link: '/tools/nrm',
+      },
+    ],
+  },
+  {
     text: "方案",
     items: [
       {
@@ -348,6 +357,12 @@ const sidebar = {
           link: "/handbook/xmselect/es6",
         },
       ],
+    },
+  ],
+  "/tools": [
+    {
+      text: "nrm",
+      link: "/tools/nrm",
     },
   ],
   "/life": [
