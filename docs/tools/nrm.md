@@ -28,14 +28,14 @@ nrm ls
 ```sh
 nrm current
 
-You are using taobao registry.
+# You are using taobao registry.
 ```
 
 ### 选择镜像源
 ```sh
 nrm use npm
 
-The registry has been changed to 'npm'.
+# The registry has been changed to 'npm'.
 ```
 
 ### 测试镜像源的速度
@@ -63,5 +63,5 @@ npm config set registry https://registry.npmmirror.com/
 # 查看当前镜像源
 npm config get registry
 
-https://registry.npmmirror.com/
+# https://registry.npmmirror.com/
 ```
