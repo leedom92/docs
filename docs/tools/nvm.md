@@ -8,11 +8,16 @@
 
 ### 查看当前已下载的nodejs版本列表
 ```sh
-nvm ls node
+nvm ls
 ```
 ### 查看当前使用版本
 ```sh
 nvm current
+```
+
+### 切换版本
+```sh
+nvm use 18
 ```
 
 ### 下载指定版本
