@@ -21,6 +21,10 @@ const nav = [
       {
         text: 'nvm',
         link: '/tools/nvm',
+      },
+      {
+        text: 'codeium',
+        link: '/tools/codeium',
       }
     ],
   },
@@ -371,6 +375,10 @@ const sidebar = {
     {
       text: 'nvm',
       link: "/tools/nvm",
+    },
+    {
+      text: 'codeium',
+      link: "/tools/codeium",
     }
   ],
   "/life": [
