@@ -1,5 +1,24 @@
 # macOS 键盘快捷键
 
+## 使用键盘快捷键
+
+要使用键盘快捷键，请按住一个或多个修饰键，然后按快捷键的最后一个键。例如，要使用 Command-C（拷贝），请按住 Command 键，再按 C 键，然后同时松开这两个键。
+
+::: tip 提示
+在 Windows PC 专用键盘上，请用 Alt 键代替 Option 键，用 Ctrl 键或 Windows 标志键代替 Command 键。
+
+修饰键：
+- Command（或 Cmd）⌘
+
+- Shift ⇧
+
+- Option（或 Alt）⌥
+
+- Control（或 Ctrl）⌃
+
+- Caps Lock ⇪
+:::
+
 ## 剪切、拷贝、粘贴和其他常用快捷键
 
 - Command-X：剪切所选项目并拷贝到剪贴板。
@@ -373,18 +392,3 @@
 
 - Control–箭头键：移到与文本栏相邻的控制。
   
-
-::: tip
-在 Windows PC 专用键盘上，请用 Alt 键代替 Option 键，用 Ctrl 键或 Windows 标志键代替 Command 键。
-
-修饰键：
-- Command（或 Cmd）⌘
-
-- Shift ⇧
-
-- Option（或 Alt）⌥
-
-- Control（或 Ctrl）⌃
-
-- Caps Lock ⇪
-:::
