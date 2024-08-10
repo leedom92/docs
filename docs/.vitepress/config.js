@@ -12,6 +12,20 @@ const nav = [
     link: "/handbook/git/sshkey",
   },
   {
+    text: '操作系统',
+    items: [
+      {
+        text: 'macOS',
+        items: [
+          {
+            text: '快捷键',
+            link: '/os/macOS/shortcuts',
+          }
+        ]
+      },
+    ]
+  },
+  {
     text: '工具',
     items: [
       {
@@ -365,6 +379,18 @@ const sidebar = {
           link: "/handbook/xmselect/es6",
         },
       ],
+    },
+  ],
+  '/os': [
+    {
+      text: "macOS",
+      items: [
+        {
+          text: '快捷键',
+          link: '/os/macOS/shortcuts',
+        }
+      ]
+
     },
   ],
   "/tools": [
