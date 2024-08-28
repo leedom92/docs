@@ -20,7 +20,11 @@ const nav = [
           {
             text: '快捷键',
             link: '/os/macOS/shortcuts',
-          }
+          },
+          {
+            text: '.DS_Store',
+            link: '/os/macOS/ds_store',
+          },
         ]
       },
     ]
@@ -388,7 +392,11 @@ const sidebar = {
         {
           text: '快捷键',
           link: '/os/macOS/shortcuts',
-        }
+        },
+        {
+          text: '.DS_Store',
+          link: '/os/macOS/ds_store',
+        },
       ]
 
     },
