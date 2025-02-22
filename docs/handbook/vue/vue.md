@@ -1,9 +1,9 @@
 # Vue
 >***the different of start between Vue2 and Vue3***
 
-:::: code-group
-::: code-group-item VUE2
-```js
+::: code-group
+
+```js [VUE2]
 const app = new Vue({
   el: '#app',
   data: {
@@ -11,9 +11,8 @@ const app = new Vue({
   }
 })
 ```
-:::
-::: code-group-item VUE3
-```js
+
+```js [VUE3]
 const app = {
   data() {
     return {
@@ -25,4 +24,3 @@ const app = {
 Vue.createApp(app).mount('#app')
 ```
 :::
-::::

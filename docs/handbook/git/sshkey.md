@@ -3,18 +3,15 @@
 ## 生成公钥
 你可以使用以下命令生成sshkey：
 
-:::: code-group
-::: code-group-item ed25519
-```sh
+::: code-group
+```sh [ed25519]
 ssh-keygen -t ed25519 -C "ur_email@example.com"
 ```
-:::
-::: code-group-item rsa
-```sh
+
+```sh [rsa]
 ssh-keygen -t rsa -b 4096 -C "ur_email@example.com"
 ```
 :::
-::::
 
 ::: warning
 **如果您使用的是不支持 Ed25519 算法的旧系统，请使用第二种 `rsa` 。**   

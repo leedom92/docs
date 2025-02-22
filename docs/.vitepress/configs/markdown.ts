@@ -1,4 +1,3 @@
-import { useCodeGroup, useCodeGroupItem } from '../theme/components/markdown'
 import type { MarkdownOptions } from 'vitepress'
 
 /**
@@ -7,15 +6,7 @@ import type { MarkdownOptions } from 'vitepress'
  */
 export const markdownConfig: MarkdownOptions = {
   lineNumbers: true,
-  theme: 'one-dark-pro',
-  config: (md) => {
-    md.use(useCodeGroup.container, useCodeGroup.type, {
-      render: useCodeGroup.render,
-    })
-    md.use(useCodeGroupItem.container, useCodeGroupItem.type, {
-      render: useCodeGroupItem.render,
-    })
-  },
+  theme: 'vitesse-dark',
   toc: {
     level: [2, 3, 4]
   }

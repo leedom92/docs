@@ -27,18 +27,15 @@ cp -Rf ~/.ssh/company.pub ~/.ssh/id_ed25519.pub
 
 ### 切换操作
 根据需要使用的账号，在 `~` 或 `.ssh` 目录下，执行上述创建好的命令
-:::: code-group
-::: code-group-item 个人
-```sh
+::: code-group
+```sh [个人]
 sh github_mine.sh
 ```
-:::
-::: code-group-item 公司
-```sh
+
+```sh [公司]
 sh github_company.sh
 ```
 :::
-::::
 
 查看 `id_ed25519.pub` 公钥是否是对应刚执行的sh命令所属公钥
 ```sh
@@ -85,18 +82,17 @@ copy C:\Users\Administrator\.ssh\company.pub C:\Users\Administrator\.ssh\id_ed25
 `Win + R`，输入`cmd`打开命令提示符
 :::
 根据需要使用的账号，执行上述创建好的脚本
-:::: code-group
-::: code-group-item 个人
-```sh
+::: code-group
+
+```sh [个人]
 github_mine
 ```
 :::
-::: code-group-item 公司
-```sh
+
+```sh [公司]
 github_company
 ```
 :::
-::::
 
 查看 `id_ed25519.pub` 公钥是否是对应刚执行的sh命令所属公钥
 ```sh
