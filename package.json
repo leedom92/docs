@@ -2,6 +2,7 @@
   "name": "Leedom's docs",
   "version": "1.0.0",
   "description": "Leedom's docs",
+  "type": "module",
   "repository": "https://github.com/leedom92/docs",
   "author": "Leedom",
   "license": "MIT",
