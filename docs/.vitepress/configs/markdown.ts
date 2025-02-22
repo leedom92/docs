@@ -16,4 +16,7 @@ export const markdownConfig: MarkdownOptions = {
       render: useCodeGroupItem.render,
     })
   },
+  toc: {
+    level: [2, 3, 4]
+  }
 }

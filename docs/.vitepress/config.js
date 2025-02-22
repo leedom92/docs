@@ -571,6 +571,7 @@ export default defineConfig({
     algolia,
     nav,
     sidebar,
+    outline: 'deep',
     siteTitle: "Leedom",
     logo: "https://github.com/leedomjs.png",
     footer: {
