@@ -43,6 +43,10 @@ const nav = [
       {
         text: 'codeium',
         link: '/tools/codeium',
+      },
+      {
+        text: 'photoshop',
+        link: '/tools/photoshop',
       }
     ],
   },
@@ -413,6 +417,10 @@ const sidebar = {
     {
       text: 'codeium',
       link: "/tools/codeium",
+    },
+    {
+      text: 'photoshop',
+      link: '/tools/photoshop',
     }
   ],
   "/life": [
