@@ -87,7 +87,6 @@ copy C:\Users\Administrator\.ssh\company.pub C:\Users\Administrator\.ssh\id_ed25
 ```sh [个人]
 github_mine
 ```
-:::
 
 ```sh [公司]
 github_company
